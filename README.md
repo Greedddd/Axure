@@ -11,4 +11,6 @@
 2，推荐阅读兴趣相近（书架匹配度达到90%）的读者人群   
 3，即时推送热门话题，热门好书  
 4，定制化追踪   
-5，增加私信功能，方便读者，笔者之间的各种交流
+5，增加私信功能，方便读者，笔者之间的各种交流  
+#####产品概述
+![Image text](https://raw.githubusercontent.com/Greedddd/Axure/master/image/1.png)
